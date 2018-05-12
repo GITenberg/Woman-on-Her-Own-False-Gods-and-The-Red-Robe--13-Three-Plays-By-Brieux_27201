@@ -1,0 +1,54 @@
+_repo: Woman-on-Her-Own-False-Gods-and-The-Red-Robe--13-Three-Plays-By-Brieux_27201
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Shaw, Charlotte Frances
+    aliases:
+    - Shaw, Charlotte Payne-Townshend
+    - Shaw, Charlotte Frances Payne-Townshend
+    - Shaw, Mrs. Bernard
+    - Payne-Townshend, Charlotte Frances
+    birthdate: 1857
+    deathdate: 1943
+    gutenberg_agent_id: '32533'
+    url: http://www.gutenberg.org/2009/agents/32533
+  - agent_name: Fagan, James Bernard
+    aliases:
+    - Fagan, J. B. (James Bernard)
+    - Fagan, James B. (James Bernard)
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '32534'
+    url: http://www.gutenberg.org/2009/agents/32534
+  - agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brieux, Eugène
+    alias: Brieux, Eugene
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '539'
+    url: http://www.gutenberg.org/2009/agents/539
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Brieux
+description: 'Translations of: La femme seule, La foi, La robe rouge.'
+gutenberg_issued: '2008-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27201'
+  lccn: '16014122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama'
+title: "Woman on Her Own, False Gods and The Red Robe\r\nThree Plays By Brieux"
+url: http://www.gutenberg.org/ebooks/27201
