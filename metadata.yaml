@@ -38,6 +38,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/539
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Brieux
 description: 'Translations of: La femme seule, La foi, La robe rouge.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27201#Woman-on-Her-Own-False-Gods-and-The-Red-Robe--13-Three-Plays-By-Brieux
 gutenberg_issued: '2008-11-08'
 gutenberg_type: Text
 identifiers:
